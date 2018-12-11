@@ -1,0 +1,20 @@
+GEOSERVER_HOST +
+        "ows?service=WFS&version=1.1.0&request=GetFeature&bbox=" +
+        bboxString + ",urn:ogc:def:crs:EPSG:4326&typeName=" +
+        dataset +
+        "&srsName=EPSG:4326&outputFormat=application%2Fjson";
+
+http://mf2.dit.ie:8080/geoserver/ +
+        "ows?service=WFS&version=1.1.0&request=GetFeature&bbox=" +
+        bboxString + ",urn:ogc:def:crs:EPSG:4326&typeName=" +
+        dataset +
+        "&srsName=EPSG:4326&outputFormat=application%2Fjson";
+		
+http://mf2.dit.ie:8080/geoserver/
+		ows?service=WFS&version=1.1.0&request=GetFeature&bbox=
+		53.26452203125911%2C+-6.473036292591133%2C+53.298391148207095%2C+-6.437674048938789,urn:ogc:def:crs:EPSG:4326&typeName=
+		dataset&srsName=EPSG:4326&outputFormat=application%2Fjson
+		
+		
+		
+http://mf1.dit.ie:81/geoserver/cso/ows?service=WFS&version=1.1.0&request=GetFeature&bbox=51.0,-9.0,53.5,-7.0,urn:ogc:def:crs:EPSG:4326&typeName=cso:gageom&outputFormat=application%2Fjson

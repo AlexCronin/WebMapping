@@ -28,17 +28,9 @@ var app = {
     // 'pause', 'resume', etc.
     onDeviceReady: function() {
         this.receivedEvent('deviceready');
+        $("#btn-login").on("touchstart", myButtonPressed);
 
-        $.ajax({
-            url: 'http://192.168.1.5:8000/users/?format=json',
-            type: 'get', // This is the default though, you don't actually need to always mention it
-            success: function(data) {
-                alert(data);
-            },
-            failure: function(data) {
-                alert('Got an error dude');
-            }
-        });
+
     },
 
     // Update DOM on a Received Event
@@ -52,6 +44,29 @@ var app = {
 
         console.log('Received Event: ' + id);
     }
+
+
+
 };
+
+    function myButtonPressed() {
+        console.log("Button was pressed.");
+
+        $.ajax({
+            type: "GET",
+            headers: {"Authorization": authtoken},  // auth token if needed
+            url: 'http://178.62.23.74:8511/borders/',  // your URL goes gere
+            }).done(function (data, status, xhr) {
+                  // do stuff when request successful
+            }).fail(function (xhr, status, error) {
+                  // do stuff when request not successful
+        });
+
+    }
+
+    function neewf() {
+
+        console.log("Test");
+    }
 
 app.initialize();

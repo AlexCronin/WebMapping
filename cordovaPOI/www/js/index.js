@@ -33,6 +33,18 @@ function showOkAlert(message) {
 
 function getCurrentlocation() {
     console.log("In getCurrentlocation.");
+    /*
+    $.ajax({
+        type: "GET",
+        headers: {"Authorization": authtoken},  // auth token if needed
+        url: 'http://178.62.23.74:8511/borders/',  // your URL goes gere
+        }).done(function (data, status, xhr) {
+            var message = "In ajax\n"
+
+        }).fail(function (xhr, status, error) {
+              // do stuff when request not successful
+    });
+    */
     navigator.geolocation.getCurrentPosition(
         function (pos) {
             console.log("Got location");

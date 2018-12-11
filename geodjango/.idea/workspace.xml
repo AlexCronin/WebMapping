@@ -1,7 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4e37472a-03df-4fb4-8d85-874c8895f9c3" name="Default Changelist" comment="" />
+    <list default="true" id="4e37472a-03df-4fb4-8d85-874c8895f9c3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/intermediates/assets/debug/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/intermediates/assets/debug/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/intermediates/assets/debug/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/intermediates/assets/debug/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/src/main/assets/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/src/main/assets/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/src/main/assets/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/platforms/android/app/src/main/assets/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaDemo/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaDemo/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/RELEASENOTES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/plugin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/src/android/BuildHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/node_modules/cordova-plugin-compat/src/android/PermissionHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/generated/source/buildConfig/debug/io/cordova/hellocordova/BuildConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/generated/source/r/debug/io/cordova/hellocordova/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/assets/debug/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/assets/debug/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/assets/debug/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/assets/debug/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/WFd7+QcGlDchQCIyA7KDBDL3qYU=" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/incremental/packageDebug/debug/zip-cache/WFd7+QcGlDchQCIyA7KDBDL3qYU=" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/manifests/full/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/manifests/full/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/manifests/instant-run/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/manifests/instant-run/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/debug/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/merged/debug/xml_config.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/outputs/apk/debug/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/outputs/apk/debug/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/assets/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/assets/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/assets/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/assets/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/java/io/cordova/hellocordova/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/res/xml/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/platforms/android/app/src/main/res/xml/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cordovaPOI/www/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../cordovaPOI/www/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geodjango/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geodjango/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_tutorial/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/rest_tutorial/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_tutorial/rest_tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_tutorial/rest_tutorial/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rest_tutorial/rest_tutorial/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/rest_tutorial/rest_tutorial/urls.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,40 +84,46 @@
     <session id="-1615039500">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.111" value="1" />
           <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="629" />
+          <entry key="Django Console" value="28" />
+          <entry key="py" value="695" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="629" />
+          <entry key="Python" value="723" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="json" value="2" />
-          <entry key="py" value="58" />
-          <entry key="txt" value="1" />
+          <entry key="py" value="102" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="2" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="58" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="102" />
         </counts>
       </usages-collector>
     </session>
@@ -56,109 +131,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/world/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-444">
-              <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/world/load.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poi/load.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/poi/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="13" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/urls.py">
+        <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest_tutorial/rest_tutorial/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geodjango/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="109" selection-start-line="109" selection-end-line="109" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest_tutorial/rest_tutorial/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="e#637#669#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/permissions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+            <state relative-caret-position="-136">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -182,7 +179,12 @@
       <find>request.d</find>
       <find>world</find>
       <find>rest</find>
+      <find>model</find>
+      <find>gdal</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -192,17 +194,17 @@
         <option value="$PROJECT_DIR$/world/migrations/0001_initial.py" />
         <option value="$PROJECT_DIR$/world/models.py" />
         <option value="$PROJECT_DIR$/world/admin.py" />
-        <option value="$PROJECT_DIR$/geodjango/urls.py" />
         <option value="$PROJECT_DIR$/poi/models.py" />
         <option value="$PROJECT_DIR$/rest_tutorial/snippets/models.py" />
-        <option value="$PROJECT_DIR$/rest_tutorial/rest_tutorial/urls.py" />
         <option value="$PROJECT_DIR$/rest_tutorial/snippets/permissions.py" />
         <option value="$PROJECT_DIR$/rest_tutorial/snippets/serializers.py" />
         <option value="$PROJECT_DIR$/poi/load.py" />
         <option value="$PROJECT_DIR$/geodjango/settings.py" />
         <option value="$PROJECT_DIR$/rest_tutorial/snippets/views.py" />
-        <option value="$PROJECT_DIR$/rest_tutorial/rest_tutorial/settings.py" />
         <option value="$PROJECT_DIR$/rest_tutorial/snippets/urls.py" />
+        <option value="$PROJECT_DIR$/geodjango/urls.py" />
+        <option value="$PROJECT_DIR$/rest_tutorial/rest_tutorial/settings.py" />
+        <option value="$PROJECT_DIR$/rest_tutorial/rest_tutorial/urls.py" />
       </list>
     </option>
   </component>
@@ -213,10 +215,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="1140" />
+    <option name="width" value="1176" />
+    <option name="height" value="1248" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -229,28 +232,6 @@
             <path>
               <item name="geodjango" type="b2602c69:ProjectViewProjectNode" />
               <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geodjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geodjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="poi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geodjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="poi" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="geodjango" type="b2602c69:ProjectViewProjectNode" />
-              <item name="geodjango" type="462c0819:PsiDirectoryNode" />
-              <item name="poi" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="geodjango" type="b2602c69:ProjectViewProjectNode" />
@@ -277,10 +258,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cordovaDemo" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/MGCurtis/wmap2018-cordova-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -307,6 +288,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="geodjango.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -339,15 +321,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49867374" visible="true" weight="0.28322148" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49867374" visible="true" weight="0.19757085" />
       <window_info id="Structure" order="1" sideWeight="0.50132626" side_tool="true" weight="0.25637585" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -356,8 +338,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067115" side_tool="true" weight="0.46600565" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.25637394" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49932885" visible="true" weight="0.28774422" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.30169973" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -372,9 +354,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/world/data/Readme.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/geodjango/Lib/site-packages/django/contrib/gis/gdal/libgdal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -410,9 +389,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/world/apps.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/world/migrations/0002_auto_20181028_1814.py" />
     <entry file="file://$USER_HOME$/.virtualenvs/geodjango3/Lib/site-packages/django/db/models/manager.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -428,37 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/world/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geodjango/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/world/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geodjango/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/poi/data/dublin_poi.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/world/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="37" column="8" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/world/migrations/0001_initial.py">
@@ -478,25 +424,110 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/serializers.py">
+    <entry file="file://$PROJECT_DIR$/poi/load.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="54" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
+        <state relative-caret-position="119">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/permissions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/poi/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/poi/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/poi/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assignment/assignment/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1614" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/geodjango3/Lib/site-packages/rest_framework/pagination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="197" selection-start-line="197" selection-end-line="197" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/geodjango3/Lib/site-packages/django/contrib/gis/management/commands/ogrinspect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/data/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-915" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
           <folding>
-            <element signature="e#0#38#0" expanded="true" />
+            <element signature="e#633#669#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/models.py">
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        <state relative-caret-position="238">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="10" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geodjango/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/world/load.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -510,69 +541,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/poi/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/poi/load.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/permissions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-444">
-          <caret line="17" column="47" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/geodjango/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="109" selection-start-line="109" selection-end-line="109" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rest_tutorial/rest_tutorial/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" selection-end-column="31" />
+        <state relative-caret-position="136">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rest_tutorial/rest_tutorial/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="347">
+          <caret line="24" column="59" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
           <folding>
             <element signature="e#637#669#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/urls.py">
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="18" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/rest_tutorial/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="108" column="62" selection-start-line="108" selection-start-column="62" selection-end-line="108" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/rest_tutorial/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest_tutorial/snippets/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
